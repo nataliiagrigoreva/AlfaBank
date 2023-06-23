@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "Petrosyan.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
